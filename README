@@ -1,1 +1,4 @@
+Author: Gianluca
+
 Giving a input file as a text, returns the N most frequent words where N is provided as parameter. An optional parameter is providing a list of words to exclude from the search (i.e. the|a|on|of).
+
